@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**sergey-alekseev/sergey-alekseev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are all my contacts with more than 10 years of history on most of them from https://sergeyalekseev.com/contact:  
+- https://github.com/sergey-alekseev
+- https://gitlab.com/sergey-alekseev
+- https://stackoverflow.com/users/1085570/sergey-alekseev
+- https://www.linkedin.com/in/alexeevs/
+- https://www.slideshare.net/SergeyAlekseev1
+- https://twitter.com/AlexeevS
+- https://medium.com/@sergey.alekseev
+- https://www.instagram.com/realsergeyalekseev/
+- https://www.facebook.com/sergeyalekseev.com
+- https://www.quora.com/profile/Sergey-Alekseev
+- https://vk.com/sergeyalekseev_com
+- https://t.me/SergeyAlekseevCom
+- https://m.me/sergeyalekseev.com
+- https://www.reddit.com/user/sergey-alekseev/
+- https://keybase.io/sergeyalekseev
+- https://news.ycombinator.com/user?id=sergey-alekseev
